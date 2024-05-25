@@ -1,0 +1,16 @@
+{
+   "accountId" : 1,
+   "availableUsernameChanges" : 5,
+   "birthday" : "1925-01-01T05:00:00Z",
+   "createdAt" : "2020-01-24T20:11:17.8041084Z",
+   "displayName" : "dkdv",
+   "email" : "test@gmail.com",
+   "identityFlags" : 0,
+   "isFakeJuniorBirthday" : false,
+   "isJunior" : false,
+   "isMetaPlatformBlocked" : false,
+   "personalPronouns" : 0,
+   "platforms" : 1,
+   "profileImage" : "339366okx9fafvv07hmvivjq3.jpg",
+   "username" : "dkdv"
+}
