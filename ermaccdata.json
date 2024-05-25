@@ -1,0 +1,14 @@
+[
+    {
+        "accountId": 1,
+        "username": "dkdv",
+        "displayName": "dkdv",
+        "profileImage": "DefaultRoomImage.jpg",
+        "isJunior": false,
+        "platforms": 1,
+        "personalPronouns": 0,
+        "identityFlags": 0,
+        "createdAt": "2024-01-24T20:11:17.8041084Z",
+        "isMetaPlatformBlocked": false
+    }
+]
